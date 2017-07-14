@@ -2,8 +2,6 @@
 
 JavaScript solutions for leetcode
 
-​(Notes: :blue_book: means you need to buy a book from Leetcode)
-
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |

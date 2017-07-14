@@ -2,6 +2,7 @@
 
 JavaScript solutions for leetcode
 
+
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |

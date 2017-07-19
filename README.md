@@ -5,6 +5,7 @@ JavaScript solutions for leetcode
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
+|        | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) |                JavaScript                |    Easy    |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |
 |  141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/linkedListCycle.js) |    Easy    |
 |  136   | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/singleNumber.js) |    Easy    |

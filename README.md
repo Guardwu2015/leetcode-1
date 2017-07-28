@@ -5,7 +5,10 @@ JavaScript solutions for leetcode
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
+<<<<<<< HEAD
 |  189   | [Rotate Array](https://leetcode.com/problems/rotate-array/tabs/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/rotateArray.js) |    Easy    |
+=======
+>>>>>>> 3979cf19d63dc223014eab53c0c88a5415d65972
 |  167   | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/Two%20Sum%20II%20Input%20array%20is%20sorted.js) |    Easy    |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |
 |  141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/linkedListCycle.js) |    Easy    |

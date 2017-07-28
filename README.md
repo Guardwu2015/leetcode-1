@@ -5,7 +5,7 @@ JavaScript solutions for leetcode
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
-|  167   | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/Two%20Sum%20II%20Input%20array%20is%20sorted.js) |    Easy    |
+|  167   | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |
 |  141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/linkedListCycle.js) |    Easy    |
 |  136   | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/singleNumber.js) |    Easy    |
@@ -45,3 +45,4 @@ JavaScript solutions for leetcode
 |   3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/longestSubstringWithoutRepeatingCharacters.js) |   Medium   |
 |   2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/addTwoNumbers.js) |   Medium   |
 |   1    | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/twoSum.js) |    Easy    |
+

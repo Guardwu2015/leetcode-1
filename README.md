@@ -5,7 +5,7 @@ JavaScript solutions for leetcode
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
-|  190   | [Reverse Bits](https://leetcode.com/submissions/detail/111718686/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/reverseBits.js) |    Easy    |
+|  190   | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/reverseBits.js) |    Easy    |
 |  189   | [Rotate Array](https://leetcode.com/problems/rotate-array/tabs/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/rotateArray.js) |    Easy    |
 |  167   | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/Two%20Sum%20II%20Input%20array%20is%20sorted.js) |    Easy    |
 |  155   | [Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/minStack.js) |    Easy    |

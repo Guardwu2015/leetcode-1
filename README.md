@@ -1,7 +1,7 @@
 # Leetcode Solutions with JavaScript
 
-JavaScript solutions for leetcode
-
+JavaScript solutions for leetcode  
+many things still remain to be done
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |

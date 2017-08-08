@@ -26,6 +26,7 @@ JavaScript solutions for leetcode
 |  100   | [Same Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/sameTree.js) |    Easy    |
 |   88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/mergeSortedArray.js) |    Easy    |
 |   83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/removeDuplicatesfromSortedList.js) |    Easy    |
+|   78   | [Subsets](https://leetcode.com/problems/subsets/description/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/Subsets.js) |    Easy    |
 |   70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/climbingStairs.js) |    Easy    |
 |   69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/sqrt(x).js) |    Easy    |
 |   67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/addBinary.js) |    Easy    |

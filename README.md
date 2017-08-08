@@ -2,7 +2,6 @@
 
 JavaScript solutions for leetcode
 
-
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
 |  204   | [Count Primes](https://leetcode.com/problems/count-primes/description/) | [JavaScript](https://github.com/calabash519/leetcode/blob/master/solution/countPrimes.js) |    Easy    |

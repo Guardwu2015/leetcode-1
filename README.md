@@ -2,7 +2,7 @@
 
 JavaScript solutions for leetcode
 
-still on the road
+Still on the road
 
 | Number |                 Problem                  |                 Solution                 | Difficulty |
 | :----: | :--------------------------------------: | :--------------------------------------: | :--------: |
